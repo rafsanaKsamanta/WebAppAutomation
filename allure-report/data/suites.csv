@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jan 15 17:38:13 BDT 2023","Sun Jan 15 17:38:19 BDT 2023","5835","Default Suite","TestNG_Practice","TestRunner","TestRunner","PIM","User can click on PIM",""
+"passed","Sun Jan 15 17:38:19 BDT 2023","Sun Jan 15 17:38:37 BDT 2023","17823","Default Suite","TestNG_Practice","TestRunner","TestRunner","CreateUser","New User will be created",""
+"passed","Sun Jan 15 17:37:42 BDT 2023","Sun Jan 15 17:38:13 BDT 2023","30918","Default Suite","TestNG_Practice","TestRunner","TestRunner","doLogin","User can login successfully",""
+"passed","Sun Jan 15 17:38:37 BDT 2023","Sun Jan 15 17:38:44 BDT 2023","7556","Default Suite","TestNG_Practice","TestRunner","TestRunner","SearchUser","Search",""
